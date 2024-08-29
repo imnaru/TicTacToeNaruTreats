@@ -10,7 +10,7 @@ Rules and Mechanics:
 7.	‘Play again’ button will be pop out to allow players to start a new round.
 8.	‘Reset Scoreboard’ resets the recorded scores of the players.
 
-The game manages errors in a thorough manner. The try-catch is used for file operations to handle issues like missing files or access problems. Images’ dimensions and UI elements are carefully scaled and positioned to fit the game board and avoid misalignments. Also, it implemented event handling to respond correctly to user actions, such as action and mouse clicks, and to manage window events for file operations. These strategies ensure a smooth and reliable gaming experience.
+The game manages errors in a thorough manner. The try-catch is used for file operations to handle missing files or access problems. Images’ dimensions and UI elements are carefully adjusted and positioned to fit the game board and avoid misalignments. Also, it implemented event handling to respond correctly to user actions, such as action and mouse clicks, and to manage window events for file operations. These strategies ensure a smooth and reliable gaming experience.
 
 
 
